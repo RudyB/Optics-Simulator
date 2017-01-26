@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane fx:controller="controllers.AboutPageController" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="258.0" prefWidth="519.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="96.0" layoutY="31.0" text="About the Developers">
+         <font>
+            <Font size="32.0" />
+         </font></Label>
+      <Label layoutX="96.0" layoutY="121.0" text="Charlie Fox, Yasser Zghinoueam, and Rudy Bermudez" />
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="204.0" layoutY="147.0" text=" May 2, 2015, v1.0" />
+      <Button onAction="#closeWindow" contentDisplay="CENTER" layoutX="230.0" layoutY="205.0" mnemonicParsing="false" text="Close" />
+   </children>
+</AnchorPane>

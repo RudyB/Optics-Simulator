@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="anchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600" prefWidth="800" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.PhysicsPageController">
+   <children>
+      <Button fx:id="closeButton" layoutX="14.0" layoutY="559.0" mnemonicParsing="false" onAction="#closeWindow" text="Close" />
+      <Button fx:id="togglePageButton" alignment="BOTTOM_CENTER" contentDisplay="CENTER" layoutX="148.0" layoutY="559.0" mnemonicParsing="false" onAction="#togglePage" text="Go to Circular Hole Diffraction" textAlignment="CENTER" />
+   </children>
+</AnchorPane>
