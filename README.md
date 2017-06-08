@@ -1,10 +1,10 @@
-### Table of Contents
+### [Table of Contents](#table-of-contents)
 
-I. Physics Concepts
-* Circular Hole Diffraction
-* Diffraction Grating  
+I. [Physics Concepts](#physics-concepts)
+* [Circular Hole Diffraction](#circular-hole-diffraction)
+* [Diffraction Grating](#diffraction-grating)  
 
-II. Screenshots of Simulation GUI  
+II. [Screenshots of Simulation GUI](#simulation-gui)  
 III. License
 
 # Physics Concepts
