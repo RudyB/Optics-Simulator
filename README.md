@@ -1,4 +1,6 @@
-### [Table of Contents](#table-of-contents)
+# Circular Hole Diffraction and Diffraction Grating Simulator
+
+### Table of Contents
 
 I. [Physics Concepts](#physics-concepts)
 * [Circular Hole Diffraction](#circular-hole-diffraction)
